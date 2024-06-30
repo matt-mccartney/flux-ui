@@ -1,11 +1,8 @@
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/matt-mccartney/flux-ui">
     <img src="https://raw.githubusercontent.com/matt-mccartney/flux-ui/main/media/Flux.png?raw=true" alt="Flux logo" width="300" />
   </a>
-</p>
-
-<h1 align="center">Flux UI</h1>
-<br />
+</h1>
 
 <p align="center">
   <img alt="Github Checks" src="https://badgen.net/github/checks/matt-mccartney/flux-ui/main"/>
