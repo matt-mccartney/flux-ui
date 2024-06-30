@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/chakra-ui/chakra-ui">
+  <a href="https://github.com/matt-mccartney/flux-ui">
     <img src="https://raw.githubusercontent.com/matt-mccartney/flux-ui/main/media/icon.svg?raw=true" alt="Flux logo" width="300" />
   </a>
 </p>
